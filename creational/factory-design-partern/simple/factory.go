@@ -1,4 +1,4 @@
-package factory
+package simple
 
 type Translator interface {
 	Translate(string) string
